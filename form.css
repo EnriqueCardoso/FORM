@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(222, 235, 179);
+}
+
+body, h1{
+    text-align: center;
+}
+
+form{
+    background-color: white;
+    margin: 0 auto;
+    max-width: 500px;
+    height: 100%;
+    border: 10px solid black;
+}
+
+input{
+    border: 1px solid black ;
+    margin-top: 30px;
+}
+
